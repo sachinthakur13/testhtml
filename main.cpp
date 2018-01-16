@@ -14,7 +14,7 @@ int main()
 
         if (c%2==0)
         {
-            d+=d;
+            d+=c;
             cout<<c;
         }
     }
